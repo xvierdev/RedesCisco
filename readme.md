@@ -1,0 +1,2 @@
+# Projetos de Rede com Cisco Packet Tracer
+Esse repositório contem os projetos de redes desenvolvidos no curso de arquitetura e organização de computadores do curso de análise e desenvolvimento de sistemas da Fatec.
